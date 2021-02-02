@@ -1,0 +1,16 @@
+Steps/AccountPageSteps.java
+ Steps.AccountPageSteps
+Steps/ContactsPageSteps.java
+ Steps.ContactsPageSteps
+UIPages/AccountPage.java
+ UIPages.AccountPage
+AppTests/LoginPageTest.java
+ AppTests.LoginPageTest
+UIPages/ContactsPage.java
+ UIPages.ContactsPage
+Steps/LoginPageSteps.java
+ Steps.LoginPageSteps
+UIPages/LoginPage.java
+ UIPages.LoginPage
+AppTests/AccountPageTest.java
+ AppTests.AccountPageTest

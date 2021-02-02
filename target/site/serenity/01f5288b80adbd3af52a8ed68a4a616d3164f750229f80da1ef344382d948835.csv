@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"When writing web tests in serenity","Should instantiate a web driver instance for a web test","SUCCESS","2021-02-02T08:23:17.697+01:00[Africa/Luanda]","0.0","36.9"
+"Login page test","App login test","SUCCESS","2021-02-02T08:54:15.558+01:00[Africa/Luanda]","0.0","21.06"
+"Login page test","Contacts test","SUCCESS","2021-02-02T08:54:38.091+01:00[Africa/Luanda]","0.0","20.77"
+"Account page test","Search test","SUCCESS","2021-02-02T08:55:00.924+01:00[Africa/Luanda]","0.0","31.8"
+"Account page test","Account page logo test","SUCCESS","2021-02-02T08:55:38.232+01:00[Africa/Luanda]","0.0","18.18"
