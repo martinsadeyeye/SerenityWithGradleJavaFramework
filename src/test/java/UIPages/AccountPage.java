@@ -7,7 +7,7 @@ public class AccountPage extends PageObject {
 
     public void isLogoExist() {
         shouldBeVisible(By.className("logo"));
-        
+
     }
 
     public String doSearch(String searchKey, String productName) {
